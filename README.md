@@ -15,9 +15,8 @@
 </a>
 
 <a href="https://read-me-psi.vercel.app">
-    <img align="left" src="https://read-413014.an.r.appspot.com/create?username=rayfiyo" />
+    <img align="left" src="https://read-413014.an.r.appspot.com/create?username=rayfiyo" width="width="432""/>
 </a>
-![GitHub persona](https://read-413014.an.r.appspot.com/create?username=rayfiyo)
 <!--
 **rayfiyo/rayfiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
