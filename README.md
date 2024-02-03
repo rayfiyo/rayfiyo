@@ -2,17 +2,20 @@
 
 - 🦕 I'm rayfiyo.
 - 😎 I like philosophy📕,contemplation🤔 and wordplay.
-- 💪 I like legacy and liberty.(Couldn't rhyme…😢)
-- 🥰 I like cute things, like The Go gopherʕ◔ϖ◔ʔ.
-- 🔍 I'm interested in network🖧 and security🛡.
-- 🌱 I’m currently learning Golang.
+- 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
+- 🔍 I'm interested in network🖧  and security🛡.
 - 📫 How to reach me: [Twitter](https://twitter.com/rayfiyo)
 - 👀 Other Information: [Notion](https://rayfiyo.notion.site/rayfiyo/848cd3a3546a4e8194771d429f30550f)
-- Please be my friend.🤝
+- Thanks. 🤝
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rayfiyo&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **rayfiyo/rayfiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
