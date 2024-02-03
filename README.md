@@ -14,9 +14,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true" />
 </a>
 
-<a href="https://read-me-psi.vercel.app">
-    <img align="left" src="https://read-413014.an.r.appspot.com/create?username=rayfiyo" width="width="432""/>
-</a>
 <!--
 **rayfiyo/rayfiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
