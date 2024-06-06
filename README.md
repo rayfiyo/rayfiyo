@@ -1,8 +1,16 @@
 # Hi there👋
 
 <!-- https://github.com/badges/shields -->
+<!-- https://simpleicons.org -->
 
-- 🦕 I'm rayfiyo. I like philosophy📕,contemplation🤔 and wordplay.
+<img src="https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Typst-239DAD.svg?logo=typst&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Arch%20Linux-1793D1.svg?logo=archlinux&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Windows11-0078D4.svg?logo=windows11&style=flat&logoColor=white">
+
+- 🦕 I'm rayfiyo. I like philosophy📕,contemplation🤔 andwindowsterminal wordplay.
 - 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
 - 📝 [More info](https://rayfiyo.github.io)
 
