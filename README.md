@@ -2,7 +2,7 @@
 
 - 🦕 I'm rayfiyo. I like philosophy📕,contemplation🤔 and wordplay.
 - 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
-- 📫 How to reach me: [Twitter](https://twitter.com/rayfiyo) [Bluesky](https://bsky.app/profile/did:plc:ronxumipfy4ct5y22tmqtkh7)
+- 📝 [More info](https://rayfiyo.github.io)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
