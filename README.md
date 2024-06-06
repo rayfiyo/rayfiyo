@@ -8,9 +8,9 @@
     <img width="96%" src="https://github-profile-trophy.vercel.app/?username=rayfiyo&row=1&column=8&theme=monokai&no-bg=true&no-frame=true" />
 </p>
 
-<p align="left">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
+<p align="center">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
 </p>
 
 <!--
