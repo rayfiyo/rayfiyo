@@ -4,12 +4,10 @@
 - 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
 - 📝 [More info](https://rayfiyo.github.io)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
-</a>
+<p align="left">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
+    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rayfiyo&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -26,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+-->
