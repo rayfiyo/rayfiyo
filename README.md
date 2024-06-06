@@ -18,7 +18,7 @@
 
 <!-- Text -->
 
-- 🦕 I'm rayfiyo. I like philosophy📕,contemplation🤔 andwindowsterminal wordplay.
+- 🦕 I'm rayfiyo. I like philosophy📕,contemplation🤔 and wordplay.
 - 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
 - 📝 [More info](https://rayfiyo.github.io)
 
