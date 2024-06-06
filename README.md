@@ -11,6 +11,11 @@
 ![Arch Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1.svg?logo=archlinux&style=flat&logoColor=white)
 ![Windows11 Badge](https://img.shields.io/badge/-Windows11-0078D4.svg?logo=windows11&style=flat&logoColor=white)
 
+<!-- GitHub Profile Views Counter
+    https://github.com/antonkomarev/github-profile-views-counter -->
+
+![](https://komarev.com/ghpvc/?username=rayfiyo&color=00ADD8&style=flat&base=1200)
+
 <!-- Text -->
 
 - 🦕 I'm rayfiyo. I like philosophy📕,contemplation🤔 andwindowsterminal wordplay.
