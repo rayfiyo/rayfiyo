@@ -4,12 +4,12 @@
     https://github.com/badges/shields
     https://simpleicons.org -->
 
-<img src="https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/-Typst-239DAD.svg?logo=typst&style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/-Arch%20Linux-1793D1.svg?logo=archlinux&style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/-Windows11-0078D4.svg?logo=windows11&style=flat&logoColor=white">
+![Go Badge](https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat&logoColor=white)
+![Typst Badge](https://img.shields.io/badge/-Typst-239DAD.svg?logo=typst&style=flat&logoColor=white)
+![Neovim Badge](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&logoColor=white)
+![Arch Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1.svg?logo=archlinux&style=flat&logoColor=white)
+![Windows11 Badge](https://img.shields.io/badge/-Windows11-0078D4.svg?logo=windows11&style=flat&logoColor=white)
 
 <!-- Text -->
 
