@@ -4,12 +4,14 @@
 - 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
 - 📝 [More info](https://rayfiyo.github.io)
 
+<p align="center">
+    <img width="96%" src="https://github-profile-trophy.vercel.app/?username=rayfiyo&row=1&column=8&theme=monokai&no-bg=true&no-frame=true" />
+</p>
+
 <p align="left">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
     <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rayfiyo&row=2&column=3&theme=monokai&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **rayfiyo/rayfiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
