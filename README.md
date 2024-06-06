@@ -9,7 +9,7 @@
     <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rayfiyo&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rayfiyo&row=2&column=3&theme=monokai&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **rayfiyo/rayfiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
