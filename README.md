@@ -18,9 +18,8 @@
 
 <!-- Text -->
 
-- 🦕 I'm rayfiyo. I like philosophy📕,contemplation🤔 and wordplay.
+- 🦕 I'm rayfiyo. [More info](https://rayfiyo.github.io)
 - 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
-- 📝 [More info](https://rayfiyo.github.io)
 
 <!-- GitHub Profile Trophy
     https://github.com/ryo-ma/github-profile-trophy -->
