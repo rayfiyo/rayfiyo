@@ -14,7 +14,7 @@
 <!-- GitHub Profile Views Counter
     https://github.com/antonkomarev/github-profile-views-counter -->
 
-![Views Counter](https://komarev.com/ghpvc/?username=rayfiyo&color=00ADD8&style=flat&base=1200)
+![Views Counter](https://komarev.com/ghpvc/?username=rayfiyo&color=00ADD8&style=flat)
 
 <!-- Text -->
 
