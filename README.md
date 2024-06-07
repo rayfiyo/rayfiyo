@@ -14,11 +14,11 @@
 <!-- GitHub Profile Views Counter
     https://github.com/antonkomarev/github-profile-views-counter -->
 
-![](https://komarev.com/ghpvc/?username=rayfiyo&color=00ADD8&style=flat&base=1200)
+![Views Counter](https://komarev.com/ghpvc/?username=rayfiyo&color=00ADD8&style=flat&base=1200)
 
 <!-- Text -->
 
-- 🦕 I'm rayfiyo. [More info](https://rayfiyo.github.io)
+- 🦕 I'm rayfiyo. [More info.](https://rayfiyo.github.io)
 - 🥰 I love thinking and The Go gopher! ʕ ◔ ϖ ◔ʔ
 
 <!-- GitHub Profile Trophy
