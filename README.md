@@ -32,6 +32,6 @@
     https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="center">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=ambient_gradient" />
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=ambient_gradient" />
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=outrun" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=outrun" />
 </p>
