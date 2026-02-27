@@ -13,9 +13,13 @@
 ![Arch Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1.svg?logo=archlinux&style=flat&logoColor=white)
 ![Windows11 Badge](https://img.shields.io/badge/-Windows11-0078D4.svg?logo=windows11&style=flat&logoColor=white)
 
-<!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=outrun"/>
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=outrun"/>
+<!-- GitHub Readme Stats:
+  https://github.com/anuraghazra/github-readme-stats
+  https://github.com/anuraghazra/github-readme-stats/issues/3851#issuecomment-3738281321
+  https://github.com/stats-organization/github-stats-extended
+-->
+<img width="55%" src="https://github-stats-extended.vercel.app/api?username=rayfiyo&count_private=true&show_icons=true&theme=outrun"/>
+<img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rayfiyo&layout=compact&theme=outrun"/>
 
 [My social links](https://rayfiyo.github.io)
 
